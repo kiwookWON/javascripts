@@ -1,3 +1,7 @@
 # GitHub Study Test
 
-## 대체 뭐하는거냐...
+## Git을 배워봅니다.
+
+- git init
+- git remote add "url"
+- git 
