@@ -7,4 +7,4 @@
 - git add "filename"
  Or git add --a
 - git commit -m "log Text"
-- git push origin
+- git push [aliace]
