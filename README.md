@@ -3,5 +3,8 @@
 ## Git을 배워봅니다.
 
 - git init
-- git remote add "url"
-- git 
+- git remote add [aliace] "url"
+- git add "filename"
+ Or git add --a
+- git commit -m "log Text"
+- git push origin
